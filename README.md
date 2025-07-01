@@ -16,9 +16,9 @@ This project demonstrates a simple **Add to Cart** functionality using React. It
 
 ## Screenshot
 
-![Cart Screenshot](./src/screenshot.png)
+![Cart Screenshot](.src/screenshot.png)
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo:
    ```bash
